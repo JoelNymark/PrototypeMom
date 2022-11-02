@@ -186,8 +186,6 @@ h1::after {
 /* makes the card that is hoverd ontop of all other */
 .card-group:hover .big-card:hover {
   z-index: 20;
-  transition: all 800ms;
-  filter: grayscale(0%);
 }
 /* makes the card that is hoverd ontop of all other */
 /* .card-group:hover .little-card:hover {
